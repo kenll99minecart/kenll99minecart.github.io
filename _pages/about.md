@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:hwliae@connect.ust.hk'>Email</a> | <a href='https://www.linkedin.com/in/james-ho-wa-li-28116a201/'><img src='assets/img/LinkedIn_logo_initials.png' width="20" height="20">LinkedIn</a> | <a href='https://scholar.google.com/citations?user=SY4x7RQAAAAJ&hl=zh-TW&oi=ao'><img src='assets/img/gscholar.png' width="20" height="20"> Google scholar</a> | <a href='https://github.com/kenll99minecart'<img src='assets/img/Octicons-mark-github.svg' width="20" height="20"> Github </a>
+subtitle: <a href='mailto:hwliae@connect.ust.hk'>Email</a> | <a href='https://www.linkedin.com/in/james-ho-wa-li-28116a201/'><img src='assets/img/LinkedIn_logo_initials.png' width="20" height="20">LinkedIn</a> | <a href='https://scholar.google.com/citations?user=SY4x7RQAAAAJ&hl=zh-TW&oi=ao'><img src='assets/img/gscholar.png' width="20" height="20"> Google scholar</a> | <a href='https://github.com/kenll99minecart'><img src='assets/img/Octicons-mark-github.svg' width="20" height="20"> Github </a>
 
 profile:
   align: right
