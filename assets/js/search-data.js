@@ -21,10 +21,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-had-passed-my-mphil-thesis-defense-on-my-research-project-efficient-representation-of-mass-spectrometry-using-deep-learning",
-          title: 'I had passed my Mphil thesis defense on my research project Efficient representation...',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
