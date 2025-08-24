@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 I had passed my Mphil thesis defense on my research project *Efficient representation of mass spectrometry using deep learning*.
-
