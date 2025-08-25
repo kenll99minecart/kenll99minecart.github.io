@@ -1,8 +1,8 @@
 ﻿---
 layout: post
-date: 2025-08-13 15:59:00-0400
+date: 2025-08-13 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-I had passed my Mphil thesis defense on my research project Efficient representation of mass spectrometry using deep learning.
+I had passed my Mphil thesis defense on my research project _Efficient representation of mass spectrometry using deep learning_.
