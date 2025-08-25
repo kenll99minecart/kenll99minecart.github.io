@@ -6,7 +6,7 @@ subtitle: <a href='mailto:hwliae@connect.ust.hk'><img src='assets/img/email2.png
 
 profile:
   align: right
-  image: profile.jpeg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>Rm 7110</p>
