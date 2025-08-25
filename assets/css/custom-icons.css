@@ -2,7 +2,8 @@
 ---
 
 /* Custom CSS to override the only-light and only-dark classes */
-.only-light, .only-dark {
+.only-light,
+.only-dark {
   display: inline-block !important;
   vertical-align: middle !important;
 }

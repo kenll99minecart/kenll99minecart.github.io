@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a second year Master of Philosophy (Mphil) student majoring in bioengineering at the [Hong Kong University of Science and Technology](https://cbe.hkust.edu.hk/), supervised by [**Prof. Henry Lam**](https://seng.hkust.edu.hk/about/people/faculty/henry-hei-ning-lam). My current research interest lies in developing machine learning methods to elucidate the complex biological systems through mass spectrometry-based proteomics, but I am enthusiatics against different machine learning tools to aid biologists for the discovery of numerous biological phenonmenon.
+I'm a second year Master of Philosophy (Mphil) student majoring in bioengineering at the [Hong Kong University of Science and Technology](https://cbe.hkust.edu.hk/), supervised by [**Prof. Henry Lam**](https://seng.hkust.edu.hk/about/people/faculty/henry-hei-ning-lam). My current research interest lies in developing machine learning methods to elucidate the complex biological systems through mass spectrometry-based proteomics, but I am enthusiatic against different machine learning tools to aid biologists for the discovery of numerous biological phenonmenon.
 
-During my undergraduate studies, I embarked in the journey of numerous research projects, including the [iGEM competition](https://2021.igem.org/Team:HKUST), research internship projects on developing machine learning pipeline for immune cell activity and integrating machine learning with portable Electrical Impedance Tomography. [Full CV](assets/pdf/Resume.pdf)
+During my undergraduate studies, I embarked in the journey of numerous research projects, including the [iGEM competition](https://2021.igem.org/Team:HKUST), research internship projects on developing machine learning pipeline/model for immune cell activity and medical image analysis with portable Electrical Impedance Tomography. [Full CV](assets/pdf/Resume_Full.pdf)
 
 I am always open for collaborations! Please feel free to reach me or email me.
