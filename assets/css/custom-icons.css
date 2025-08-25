@@ -1,0 +1,27 @@
+---
+---
+
+/* Custom CSS to override the only-light and only-dark classes */
+.only-light {
+  display: inline-block !important;
+}
+
+.only-dark {
+  display: inline-block !important;
+}
+
+html[data-theme="dark"] .only-light {
+  display: none !important;
+}
+
+html[data-theme="dark"] .only-dark {
+  display: inline-block !important;
+}
+
+html:not([data-theme="dark"]) .only-light {
+  display: inline-block !important;
+}
+
+html:not([data-theme="dark"]) .only-dark {
+  display: none !important;
+}
