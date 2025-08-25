@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:hwliae@connect.ust.hk'><img src='assets/img/email2.png' width="20" height="20"> Email</a> | <a href='https://www.linkedin.com/in/james-ho-wa-li-28116a201/'><img src='assets/img/LinkedIn_logo_initials.png' width="20" height="20"> LinkedIn</a> | <a href='https://scholar.google.com/citations?user=SY4x7RQAAAAJ&hl=zh-TW&oi=ao'><img src='assets/img/gscholar.png' width="20" height="20"> Google scholar</a> | <a href='https://github.com/kenll99minecart'><img src='assets/img/github-mark-white.png' width="20" height="20" class=only-dark style="vertical-align:middle; display:inline;"><img src='assets/img/github-mark.png' width="20" height="20" class=only-light style="vertical-align:middle; display:inline;"><span style="vertical-align:middle; display:inline;"> Github</span></a>
+subtitle: <a href='mailto:hwliae@connect.ust.hk'><img src='assets/img/email2.png' width="20" height="20"> Email</a> | <a href='https://www.linkedin.com/in/james-ho-wa-li-28116a201/'><img src='assets/img/LinkedIn_logo_initials.png' width="20" height="20"> LinkedIn</a> | <a href='https://scholar.google.com/citations?user=SY4x7RQAAAAJ&hl=zh-TW&oi=ao'><img src='assets/img/gscholar.png' width="20" height="20"> Google scholar</a> | <a href='https://github.com/kenll99minecart'><span class="only-dark"><img src='assets/img/github-mark-white.png' width="20" height="20" style="vertical-align:middle;"></span><span class="only-light"><img src='assets/img/github-mark.png' width="20" height="20" style="vertical-align:middle;"></span><span style="vertical-align:middle; display:inline;"> Github</span></a>
 
 profile:
   align: right
