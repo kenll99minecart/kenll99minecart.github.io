@@ -2,12 +2,9 @@
 ---
 
 /* Custom CSS to override the only-light and only-dark classes */
-.only-light {
+.only-light, .only-dark {
   display: inline-block !important;
-}
-
-.only-dark {
-  display: inline-block !important;
+  vertical-align: middle !important;
 }
 
 html[data-theme="dark"] .only-light {
@@ -24,4 +21,15 @@ html:not([data-theme="dark"]) .only-light {
 
 html:not([data-theme="dark"]) .only-dark {
   display: none !important;
+}
+
+/* Ensure all links in the subtitle are properly aligned */
+.post .post-header .desc a {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.post .post-header .desc a img,
+.post .post-header .desc a span {
+  vertical-align: middle;
 }
