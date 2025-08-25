@@ -21,7 +21,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-i-had-passed-my-mphil-thesis-defense-on-my-research-project-efficient-representation-of-mass-spectrometry-using-deep-learning",
+          title: 'I had passed my Mphil thesis defense on my research project Efficient representation...',
+          description: "",
+          section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
